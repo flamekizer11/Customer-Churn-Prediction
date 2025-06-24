@@ -162,7 +162,7 @@ Just try to keep the code readable and add some comments if you're doing somethi
 ## Issues or questions?
 
 If something's not working or you have ideas for improvements, just create an issue on GitHub. I try to check them regularly.
-Or just let me know via [Email](pratiksinghyo02776@gmail.com)
+Or just let me know via [Email](mailtto:pratiksinghyo02776@gmail.com)
 
 ---
 *If you end up using this for something cool, I'd love to learn more.*
